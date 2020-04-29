@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <vector>
 using namespace std;
-int main2()
+int main()
 {
 	int N;
 	vector<int> array;
